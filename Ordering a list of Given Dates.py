@@ -1,8 +1,11 @@
+#This One is for input 
 a = int(input())
 b = []
 for _ in range(a):
     b.append(input())
 
+    
+This code is for logic
 cab = []
 for i in b:
     y=i.split('-')
